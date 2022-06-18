@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cmna",
+    "oncran": true
+  },
+  {
+    "package": "phonics",
+    "oncran": true
+  }
+]
