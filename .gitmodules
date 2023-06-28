@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cmna"]
 	path = cmna
 	url = https://github.com/k3jph/cmna-pkg
-	shallow = true
-	registered = true
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/k3jph/phonics-in-r
-	shallow = true
-	registered = true
