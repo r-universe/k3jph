@@ -8,3 +8,6 @@
 [submodule "phonics"]
 	path = phonics
 	url = https://github.com/k3jph/phonics-in-r
+[submodule "waterfall"]
+	path = waterfall
+	url = https://github.com/k3jph/waterfall
